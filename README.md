@@ -12,6 +12,6 @@ This is a simple dice game created as part of my Udemy course project. The game 
 
 ## Technologies Used
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
